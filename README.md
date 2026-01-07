@@ -1,1 +1,4 @@
+This Jupyter/Python notebook accompanies a presentation I gave in March 2023 during one of the regular meetings of the InSAR Remote Sensing Group at Christian-Albrechts-Universität zu Kiel. The talk addressed the use of simple AI models (in this case, a deep neural network, DNN) to better understand and predict time series derived from displacement data provided by the [German Ground Motion Service](https://bodenbewegungsdienst.bgr.de/mapapps/resources/apps/bbd/index.html).
+
 ![](images/lorenbahn47043474nunddeich.png)
+Fig. 1: Examples of typical time series from the German Ground Motion Service dataset. On the right, a simple time series measured at a dike on Nordstrand; on the left, a time series along a narrow-gauge railway line, together with several ensemble statistics computed from all measurement points along the route.
